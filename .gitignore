@@ -1,0 +1,8 @@
+# Node
+node_modules/
+
+# Coverage reports
+coverage/
+
+# OS
+.DS_Store

@@ -5,11 +5,8 @@
   "scripts": {
     "test": "jest --coverage"
   },
-  "author": "Rewa <raw.rewa10@gmail.com>",
+  "author": "Archis Khuspe",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.2"
-  },
   "devDependencies": {
     "jest": "^29.7.0"
   },
