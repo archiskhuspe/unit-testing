@@ -1,4 +1,4 @@
-# Unit Testing in JavaScript
+# Unit Testing
 
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-29-C21325?logo=jest&logoColor=white)
